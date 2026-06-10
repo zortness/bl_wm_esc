@@ -24,6 +24,10 @@ This utility serves as a modern, reliable replacement for the legacy/abandoned m
   - `-read`: Read and print active profiles and settings payload.
   - `-test-toggle`: Toggle motor direction and verify commit/reboot persistence.
 
+![settings](img/screenshot_01.png)
+
+![telemetry](img/screenshot_02.png)
+
 ---
 
 ## Installation & Build
