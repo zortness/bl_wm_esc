@@ -3,3 +3,8 @@ sketch/
 *.exe
 *.apk
 
+bl_wm_esc.exe
+bl_wm_esc_linux_amd64
+bl_wm_esc_darwin_amd64
+bl_wm_esc_darwin_arm64
+
